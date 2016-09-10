@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.speed.framework.app/com.speed.framework.app.iml" filepath="$PROJECT_DIR$/com.speed.framework.app/com.speed.framework.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.speed.framework.db/com.speed.framework.db.iml" filepath="$PROJECT_DIR$/com.speed.framework.db/com.speed.framework.db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.speed.framework.retrofit/com.speed.framework.retrofit.iml" filepath="$PROJECT_DIR$/com.speed.framework.retrofit/com.speed.framework.retrofit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/speed.iml" filepath="$PROJECT_DIR$/speed.iml" />
+    </modules>
+  </component>
+</project>
